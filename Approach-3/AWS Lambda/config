@@ -1,0 +1,11 @@
+[OCI]
+region_name = sad_fasf
+secret_access_key = asdf_as1233
+access_key_id = asdfas_1321/a
+endpoint_url = asdasdendpoint_url
+
+
+[S3]
+access_key_id = sadfasdf
+secret_access_key = asdf12312/a
+region_name = asdfasdf
